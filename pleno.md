@@ -1,9 +1,9 @@
 Descrição
 ========
 
-Estamos contratando desenvolvedor full-time pleno, com experiência em Ruby/Rails e foco em back-end ou front-end(experiência com algum framework front) para integrar nossa equipe, pessoas que agreguem com experiência e novas idéias, não temos medo de mudar e tentar novas soluções.
+Estamos contratando desenvolvedor full-time pleno, com experiência em Ruby/Rails e foco em back-end ou front-end(experiência com algum framework front) para integrar nossa equipe, pessoas que agreguem com experiência e novas idéias. Não temos medo de mudar e tentar novas soluções.
 
-Somos uma empresa com ambiente descontraído, horários flexíveis, nossas decisões são tomadas em equipe e estamos sempre abertos às novas tecnologias e tendências.
+Somos uma empresa com ambiente descontraído, horários flexíveis. Nossas decisões são tomadas em equipe e estamos sempre abertos às novas tecnologias e tendências.
 
 Nosso stack é moderno e utilizamos diversas ferramentas/tecnologias desenvolvimento como: Heroku, Codeship/CircleCI, AWS(EC2, RDS, etc), MongoDB, Elasticsearch, entre outras.
 
