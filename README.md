@@ -12,4 +12,4 @@ Nosso stack é moderno e utilizamos diversas ferramentas/tecnologias desenvolvim
 
 Somos perfeccionistas com qualidade de código e padrões de design, utilizamos TDD, Pull Requests, etc. Nossos desenvolvedores precisam se incomodar em escrever códigos de má qualidade.
 
-######Interessados entrar em contato com marcelo@tracersoft.com.br enviando seu github, linkedin e sua pretensão salarial.
+#####Interessados entrar em contato com marcelo@tracersoft.com.br enviando seu github, linkedin e sua pretensão salarial.
