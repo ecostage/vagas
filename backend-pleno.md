@@ -8,4 +8,4 @@ Código deve ser todo testado e seguir os melhores padrões.
 
 ##Habilidades
 * Necessário ter experiência com: Ruby on Rails, APIs REST, TDD/BDD, GIT, PostgreSQL, Inglês. 
-* Desejável: Javscript, Angular/Ember, Elasticsearch, RSpec.
+* Desejável: Javascript, Angularjs/Emberjs, Elasticsearch, RSpec.
