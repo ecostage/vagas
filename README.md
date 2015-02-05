@@ -11,3 +11,5 @@ Somos uma empresa com ambiente descontraído, horários flexíveis. Nossas decis
 Nosso stack é moderno e utilizamos diversas ferramentas/tecnologias desenvolvimento como: Heroku, Codeship/CircleCI, AWS(EC2, RDS, etc), MongoDB, Elasticsearch, entre outras.
 
 Somos perfeccionistas com qualidade de código e padrões de design, utilizamos TDD, Pull Requests, etc. Nossos desenvolvedores precisam se incomodar em escrever códigos de má qualidade.
+
+######Interessados entrar em contato com marcelo@tracersoft.com.br enviando seu github, linkedin e sua pretensão salarial.
