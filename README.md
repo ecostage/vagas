@@ -2,6 +2,7 @@ Vagas disponíveis
 -----------------
 
 * [Desenvolvedor Ruby on Rails](https://github.com/tracersoft/vagas/blob/master/backend-pleno.md)
+* [Desenvolvedor Frontend](https://github.com/tracersoft/vagas/blob/master/frontend-pleno.md)
 
 Sobre nós
 ---------
