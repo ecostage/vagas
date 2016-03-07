@@ -1,6 +1,6 @@
 #Desenvolvedor Front-end
 
-Estamos contratando desenvolvedor frontend full-time pleno, com experiência em Javascript e Sass/PostCSS para integrar nossa equipe.
+Estamos contratando desenvolvedor frontend full-time pleno, com experiência em Javascript(ES6) e Sass/PostCSS para integrar nossa equipe.
 
 
 Responsabilidades e habilidades necessárias:
@@ -13,5 +13,5 @@ Responsabilidades e habilidades necessárias:
 
 ##Habilidades
 
-* Necessário ter experiência com:  Javascript, Sass/PostCSS, React/Angular/Ember/Outro, Gulp/Grunt, TDD, REST, Scrum/XP, UX/UI, Inglês.
+* Necessário ter experiência com:  Javascript(ES6), Sass/PostCSS, React/Angular/Ember/Outro, Gulp/Grunt, TDD, REST, Scrum/XP, UX/UI, Inglês.
 * Desejável: Ruby on Rails, Node.js.
