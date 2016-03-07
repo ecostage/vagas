@@ -1,6 +1,7 @@
 Vagas disponíveis
 -----------------
 
+* **Desenvolvedor com experiência VTEX(Front & Back)**
 * [Desenvolvedor Ruby on Rails](https://github.com/ecostage/vagas/blob/master/backend-pleno.md)
 * [Desenvolvedor Front-end](https://github.com/ecostage/vagas/blob/master/frontend-pleno.md)
 
@@ -13,4 +14,12 @@ Nosso stack é moderno e utilizamos diversas ferramentas/tecnologias de desenvol
 
 Somos perfeccionistas com qualidade de código e padrões de design, utilizamos TDD, Pull Requests, etc. Nossos desenvolvedores precisam se incomodar em escrever códigos de má qualidade.
 
-#####Interessados entrar em contato com marcelo.piva@ecostage.com.br enviando seu github, linkedin e sua pretensão salarial.
+Faixas salariais
+-----------
+
+  - Estágio: 1000 - 1600
+  - Júnior: 1800 - 2800
+  - Pleno: 3000 - 4600
+  - Sênior: 5000+
+
+#####Interessados entrar em contato com marcelo@tracersoft.com.br enviando seu github, linkedin e sua pretensão salarial.
