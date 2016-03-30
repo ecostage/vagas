@@ -15,7 +15,7 @@ Estamos contratando desenvolvedor front-end full-time pleno/senior para integrar
 #### Sobre nós
 - Valorizamos o desempenho e comprometimento da equipe através de Bônus, PLR e possibilidade de Partnership.
 - Trabalhamos com horários flexíveis e Home Office.
-- Estamos sempre em constante evolução, não temos medo de sair da zona de conforto.
+- Estamos sempre em constante evolução, não temos medo de sair da zona de conforto, usamos sempre o que há de melhor.
 - Experamos alta produtividade e qualidade, e iremos compensar adequadamente bons resultados.
 
 #### Contratação & Benefícios
