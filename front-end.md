@@ -18,7 +18,7 @@ Estamos contratando desenvolvedor front-end full-time pleno/senior para integrar
 - Estamos sempre em constante evolução, não temos medo de sair da zona de conforto.
 - Experamos alta produtividade e qualidade, e iremos compensar adequadamente bons resultados.
 
-#### Compensação
+#### Contratação & Benefícios
 - CLT
 - Entre R$ 3.000 a R$ 8.000
 - VT, VR, Convênio médico
