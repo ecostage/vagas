@@ -2,7 +2,7 @@ Vagas disponíveis
 -----------------
 
 * [Desenvolvedor Ruby on Rails](https://github.com/ecostage/vagas/blob/master/backend-pleno.md)
-* [Desenvolvedor Front-end](https://github.com/ecostage/vagas/blob/master/frontend-pleno.md)
+* [Desenvolvedor Front-end](https://github.com/ecostage/vagas/blob/master/front-end.md)
 
 Sobre nós
 ---------
