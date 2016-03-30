@@ -26,4 +26,6 @@ Estamos contratando desenvolvedor front-end full-time pleno/senior para integrar
 - PLR
 - Possitibilidade de Partnership
 
+Acha que se encaixa na nossa vaga? Envie um email para jobs@ecostage.com.br
+
 Mais sobre nós e outras vagas: [Vagas](https://github.com/ecostage/vagas)
