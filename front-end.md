@@ -1,30 +1,28 @@
 #Desenvolvedor Front-end
 
-Estamos contratando desenvolvedor front-end full-time pleno/senior para integrar nossa equipe.
+Estamos contratando desenvolvedor front-end full-time pleno para integrar nossa equipe.
 
 #### Experiencia
-- Conhecer o básico de Rails para poder realizar a integração com o back-end(Principalmente via API REST).
+- REST
 - React ou outro framework SPA.
 - ES6 e SASS/PostCSS.
 - Ser extremamente comprometido com o projeto e qualidade do código.
 - Experiência com times auto-gerenciáveis e metodologia ágil. 
-- Testes de Javascript.
+- Testar Javascript.
 - UX / UI
 - Participar da comunidade e projetos open source é um diferencial.
+- Functional & Reactive Programming
 
 #### Sobre nós
-- Valorizamos o desempenho e comprometimento da equipe através de Bônus, PLR e possibilidade de Partnership.
+- Valorizamos o desempenho e comprometimento da equipe.
 - Trabalhamos com horários flexíveis e Home Office.
-- Estamos sempre em constante evolução, não temos medo de sair da zona de conforto, usamos sempre o que há de melhor.
-- Experamos alta produtividade e qualidade, e iremos compensar adequadamente bons resultados.
+- Estamos sempre em constante evolução, não temos zona de conforto.
 
 #### Contratação & Benefícios
 - CLT
-- Entre R$ 3.000 a R$ 8.000
 - VT, VR, Convênio médico
 - Bônus por desempenho
 - PLR
-- Possitibilidade de Partnership
 
 Acha que se encaixa na nossa vaga? Envie um email para jobs@ecostage.com.br
 
