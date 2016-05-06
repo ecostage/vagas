@@ -32,6 +32,6 @@ Somos perfeccionistas com qualidade de código, nossos desenvolvedores precisam 
 
 Estamos buscando preferencialmente pessoas com disponibilidade para trabalhar em Pinheiros ou Guarulhos, podemos considerar remotos.
 
-Acha que se encaixa na nossa vaga? Envie um email para jobs@ecostage.com.br com currículo/linkedin/github
+Acha que se encaixa na nossa vaga? Envie um email para jobs@ecostage.com.br com currículo/linkedin/github e o escritório com disponibilidade.
 
 Mais sobre nós e outras vagas: [Vagas](https://github.com/ecostage/vagas)
