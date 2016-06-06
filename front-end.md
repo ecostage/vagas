@@ -4,9 +4,9 @@ Estamos contratando desenvolvedor front-end full-time pleno para integrar nossa 
 
 #### Sobre nós
 
-A EcoStage desenvolve plataformas e aplicativos para projetos sócio-ambientais, sempre com muita inovação.
+A EcoStage é líder no desenvolvimento de plataformas sócio-ambientais. Nossos projetos são sempre inovadores e desafiadores.
 
-Somos uma empresa com ambiente descontraído e horários flexíveis. Você trabalhará em uma equipe pequena, multi-disciplinar e auto-gerenciável. Buscamos pessoas que nós ajudem a continuar evoluindo.
+Somos uma empresa com ambiente descontraído e horários flexíveis. Você trabalhará em uma equipe pequena, multi-disciplinar e auto-gerenciável. Buscamos pessoas que nos ajudem a continuar evoluindo.
 
 Somos perfeccionistas com qualidade de código, nossos desenvolvedores precisam se incomodar em escrever códigos de má qualidade.
 
