@@ -4,9 +4,9 @@ Estamos contratando desenvolvedor front-end full-time pleno para integrar nossa 
 
 #### Sobre nós
 
-A EcoStage desenvolve plataformas e aplicativos para projetos sócio-ambientais, sempre com muitos mapas, gráficos e tabelas.
+A EcoStage desenvolve plataformas e aplicativos para projetos sócio-ambientais, sempre com muita inovação.
 
-Somos uma empresa com ambiente descontraído e horários flexíveis. Você trabalhará em uma equipe pequena, multi-disciplinar e auto-gerenciável. Buscamos pessoas que nós ajudem a continuar evoluindo tanto tecnicamente como em nossa metodologia de desenvolvimento.
+Somos uma empresa com ambiente descontraído e horários flexíveis. Você trabalhará em uma equipe pequena, multi-disciplinar e auto-gerenciável. Buscamos pessoas que nós ajudem a continuar evoluindo.
 
 Somos perfeccionistas com qualidade de código, nossos desenvolvedores precisam se incomodar em escrever códigos de má qualidade.
 
@@ -27,8 +27,7 @@ Somos perfeccionistas com qualidade de código, nossos desenvolvedores precisam 
 #### Contratação & Benefícios
 - CLT
 - VT, VR, Convênio médico
-- Bônus por desempenho
-- PLR
+- Bônus / PLR
 
 Estamos buscando preferencialmente pessoas com disponibilidade para trabalhar em Pinheiros ou Guarulhos, podemos considerar remotos.
 
