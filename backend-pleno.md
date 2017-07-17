@@ -1,4 +1,4 @@
-#Desenvolvedor Ruby on Rails
+# Desenvolvedor Ruby on Rails
 
 Estamos contratando desenvolvedor full-time pleno, com experiência em Ruby on Rails para integrar nossa equipe.
 
@@ -10,6 +10,6 @@ Responsabilidades e habilidades necessárias:
 - Comprometimento com o projeto e prazos combinados.
 
 
-##Habilidades
+## Habilidades
 * Necessário ter experiência com: Ruby on Rails, APIs REST, TDD/BDD, GIT, PostgreSQL, Inglês. 
 * Desejável: Javascript, Reactjs/Angularjs/Emberjs, Elasticsearch, RSpec.
