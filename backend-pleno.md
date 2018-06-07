@@ -1,15 +1,43 @@
-# Desenvolvedor Ruby on Rails
+# Desenvolvedor back-end
 
-Estamos contratando desenvolvedor full-time pleno, com experiência em Ruby on Rails para integrar nossa equipe.
+Olá Desenvolvedor!!!
 
-Responsabilidades e habilidades necessárias:
-- Experiência com desenvolvimento Ruby on Rails(incluindo design patterns, TDD).
-- Garantir a qualidade do código entregue.
-- Experiência com times auto-gerenciáveis e metodologia ágil. 
-- Participar da comunidade e projetos open source é diferencial.
-- Comprometimento com o projeto e prazos combinados.
+Aqui estão os dados da nossa vaga de back-end, mas caso ainda não conheça muito sobre nós, [clique aqui](https://github.com/ecostage/vagas).
+
+### Detalhes
+
+Se você gosta de novos desafios, de estar sempre em contato com o que há de melhor no mundo da tecnologia e busca aprender novos conceitos, metodologias e ferramentas, temos esse espaço para você aqui!
+Estamos sempre em busca de profissionais empenhados que não tenham receio de inovação.
+
+Como desenvolvedor back-end você estará envolvido na programação de .
+
+### Nossos Diferenciais
+- Horários flexíveis
+- Ambiente descontraído
+- Home office alguns dias da semana
+
+### Requisitos
+- Javascript (ReactJS, Redux, ES6)
+- Ruby(Rails)
+- PostgreSQL e MongoDB
+- Implementação de APIs REST e GraphQL
+- Cohecimentos de programação Orientada a Objetos, programação Funcional e programação Reativa.
+- Conceitos de PWA e SPA
+- Experiência com testes automatizados (Javascript e Ruby), TDD/BDD
+- Conhecimento/Experiência com metodologias ágeis (XP, SCRUM e afins)
+- Comprometimento com qualidade de código e planejamento.
+- Experiência com a ferramenta de versionamento de código GIT
+
+### Diferenciais
+- Inglês
+- CSS (SASS) e StyleSheet Frameworks
+- Conceitos de UX/UI
+- Participar da comunidade e projetos open-source
+
+### Contratação & Benefícios
+- CLT ou PJ
+- VT, VR, Convênio médico
 
 
-## Habilidades
-* Necessário ter experiência com: Ruby on Rails, APIs REST, TDD/BDD, GIT, PostgreSQL, Inglês. 
-* Desejável: Javascript, Reactjs/Angularjs/Emberjs, Elasticsearch, RSpec.
+Acha que se encaixa na nossa vaga?
+[Canditate-se aqui](https://ecostage.breezy.hr/p/e599e2233364-desenvolvedor-front-end)

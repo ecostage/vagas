@@ -1,36 +1,44 @@
-#Desenvolvedor Front-end
+# Desenvolvedor Front-end
 
-Estamos contratando desenvolvedor front-end full-time pleno para integrar nossa equipe.
+Olá Desenvolvedor!!!
 
-#### Sobre nós
+Aqui estão os dados da nossa vaga de Front-end, mas caso ainda não conheça muito sobre nós, [clique aqui](https://github.com/ecostage/vagas).
 
-A EcoStage é líder no desenvolvimento de plataformas sócio-ambientais. Nossos projetos são sempre inovadores e desafiadores.
+### Detalhes
 
-Somos uma empresa com ambiente descontraído e horários flexíveis. Você trabalhará em uma equipe pequena, multi-disciplinar e auto-gerenciável. Buscamos pessoas que nos ajudem a continuar evoluindo.
+Se você gosta de novos desafios, de estar sempre em contato com o que há de melhor no mundo da tecnologia e busca aprender novos conceitos, metodologias e ferramentas, temos esse espaço para você aqui!
+Estamos sempre em busca de profissionais empenhados que não tenham receio de inovação.
 
-Somos perfeccionistas com qualidade de código, nossos desenvolvedores precisam se incomodar em escrever códigos de má qualidade.
+Como desenvolvedor front-end você estará envolvido na programação de interfaces construindo os fluxos de navegação em aplicações.
 
-- Valorizamos o desempenho e comprometimento da equipe.
-- Trabalhamos com horários flexíveis e Home Office.
-- Estamos sempre em constante evolução tecnológica.
+### Nossos Diferenciais
+- Horários flexíveis
+- Ambiente descontraído
+- Home office alguns dias da semana
 
-#### Experiencia
-- React ou outro framework SPA.
-- ES6 e SASS / PostCSS.
-- Ser extremamente comprometido com o projeto e qualidade do código.
-- Experiência com times auto-gerenciáveis e metodologias ágeis(XP, SCRUM, Kanban, Lean). 
-- Testar Javascript.
-- UX / UI
-- Functional & Reactive Programming
-- REST / GraphQL
+### Requisitos
+- Javascript (ReactJS, Redux, ES6)
+- HTML5 e HTML APIs
+- CSS (SASS) e StyleSheet Frameworks
+- Cohecimentos de programação Orientada a Objetos, programação Funcional e programação Reativa.
+- Conhecimento/Experiência com PWA e SPA
+- Integração com APIs REST e GraphQL
+- Experiência com testes automatizados Javascript, TDD/BDD
+- Conceitos de UX/UI
+- Conhecimento/Experiência com metodologias ágeis (XP, SCRUM e afins)
+- Comprometimento com qualidade de código e planejamento.
+- Conhecimentos básicos de Ruby on Rails
+- Experiência com a ferramenta de versionamento de código GIT
 
-#### Contratação & Benefícios
-- CLT
+### Diferenciais
+- Inglês
+- Experiência com programação Ruby
+- Participar da comunidade e projetos open-source
+
+### Contratação & Benefícios
+- CLT ou PJ
 - VT, VR, Convênio médico
-- Bônus / PLR
 
-Estamos buscando preferencialmente pessoas com disponibilidade para trabalhar em Pinheiros ou Guarulhos, podemos considerar remotos.
 
-Acha que se encaixa na nossa vaga? Envie um email para jobs@ecostage.com.br com currículo/linkedin/github e o escritório com disponibilidade.
-
-Mais sobre nós e outras vagas: [Vagas](https://github.com/ecostage/vagas)
+Acha que se encaixa na nossa vaga?
+[Canditate-se aqui](https://ecostage.breezy.hr/p/e599e2233364-desenvolvedor-front-end)

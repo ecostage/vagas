@@ -1,16 +1,24 @@
-Vagas disponíveis
------------------
+# Bem-vindo
 
-* [Desenvolvedor Ruby on Rails](https://github.com/ecostage/vagas/blob/master/backend-pleno.md)
+Seja muito bem-vindo a nossa página de vagas no Github.
+
+Já que você chegou aqui vamos te deixar mais familiarizado com nossa empresa.
+
+## Sobre nós
+Somos uma empresa focada em desenvolver plataformas e com o objetivo de oferecer a centros de pesquisa, organizações não governamentais e instituições, tecnologias inovadoras para alcançar o desenvolvimento sustentável no Brasil.
+
+Procuramos sempre tomar nossas decisões junto de nossas equipes, desde interações nos projetos até no acompanhamento de novas tecnologias e tendências.
+
+Em nosso stack procuramos manter sempre o mais atualizado, utilizando de diversas ferramentas/tecnologias para facilitar nosso processo e garantir um ambiente de ponta para nossos desenvolvedores.
+
+Entendemos que a qualidade de código e padrões de design são as premissas número um para garantirmos um bom processo de desenvolvimento e manutenção, então utilizamos de TDD, Pull Requests, e outros mecanismos para atigirmos isso.
+
+E estamos próximos a Av. Paulista (Ao lado da estação Bridadeiro)
+
+Agora que você sabe um pouco mais sobre nós, dê uma conferida nas vagas que temos aberto e venha fazer parte da nossa equipe.
+
+
+#### Vagas
+
+* [Desenvolvedor Back-end](https://github.com/ecostage/vagas/blob/master/backend-pleno.md)
 * [Desenvolvedor Front-end](https://github.com/ecostage/vagas/blob/master/front-end.md)
-
-Sobre nós
----------
-
-Somos uma empresa com ambiente descontraído, horários flexíveis. Nossas decisões são tomadas em equipe e estamos sempre abertos às novas tecnologias e tendências. Você trabalhará em uma equipe pequena, multi-disciplinar e auto-gerenciável.
-
-Nosso stack é moderno e utilizamos diversas ferramentas/tecnologias de desenvolvimento como: Heroku, CircleCI, AWS(EC2, RDS, etc), entre outras.
-
-Somos perfeccionistas com qualidade de código e padrões de design, utilizamos TDD, Pull Requests, etc. Nossos desenvolvedores precisam se incomodar em escrever códigos de má qualidade.
-
-#####Interessados entrar em contato com marcelo.piva@ecostage.com.br enviando seu github, linkedin e sua pretensão salarial.
