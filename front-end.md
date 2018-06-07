@@ -7,7 +7,7 @@ Aqui estão os dados da nossa vaga de Front-end, mas caso ainda não conheça mu
 ### Detalhes
 
 Se você gosta de novos desafios, de estar sempre em contato com o que há de melhor no mundo da tecnologia e busca aprender novos conceitos, metodologias e ferramentas, temos esse espaço para você aqui!
-Estamos sempre em busca de profissionais empenhados que não tenham receio de inovação.
+Estamos sempre em busca de profissionais empenhados e que não tenham receio de inovar.
 
 Como desenvolvedor front-end você estará envolvido na programação de interfaces construindo os fluxos de navegação em aplicações.
 
