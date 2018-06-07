@@ -9,7 +9,7 @@ Aqui estão os dados da nossa vaga de back-end, mas caso ainda não conheça mui
 Se você gosta de novos desafios, de estar sempre em contato com o que há de melhor no mundo da tecnologia e busca aprender novos conceitos, metodologias e ferramentas, temos esse espaço para você aqui!
 Estamos sempre em busca de profissionais empenhados que não tenham receio de inovação.
 
-Como desenvolvedor back-end você estará envolvido na programação de .
+Como desenvolvedor back-end você estará envolvido no desenvolvimento da estrutura das plataformas desde construção do fluxo de dados até a programação das regras de negócio.
 
 ### Nossos Diferenciais
 - Horários flexíveis
@@ -33,6 +33,7 @@ Como desenvolvedor back-end você estará envolvido na programação de .
 - CSS (SASS) e StyleSheet Frameworks
 - Conceitos de UX/UI
 - Participar da comunidade e projetos open-source
+- PostGIS
 
 ### Contratação & Benefícios
 - CLT ou PJ
