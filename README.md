@@ -2,10 +2,10 @@
 
 Seja muito bem-vindo a nossa página de vagas no Github.
 
-Já que você chegou aqui vamos te deixar mais familiarizado com nossa empresa.
+Já que você chegou aqui vamos te deixar mais familiarizado com a nossa empresa.
 
 ## Sobre nós
-Somos uma empresa focada em desenvolver plataformas e com o objetivo de oferecer a centros de pesquisa, organizações não governamentais e instituições, tecnologias inovadoras para alcançar o desenvolvimento sustentável no Brasil.
+Somos uma empresa especializada no desenvolvimento de plataformas web e aplicativos e oferecemos a centros de pesquisa, organizações não governamentais, instituições e empresas, soluções e tecnologias inovadoras.
 
 Procuramos sempre tomar nossas decisões junto de nossas equipes, desde interações nos projetos até no acompanhamento de novas tecnologias e tendências.
 
