@@ -43,4 +43,4 @@ Temos vagas disponíveis para júnior, pleno e sênior.
 
 
 Acha que se encaixa na nossa vaga?
-[Canditate-se aqui](https://ecostage.breezy.hr/p/e599e2233364-desenvolvedor-front-end)
+[Canditate-se aqui](http://ecostage.breezy.hr/p/e599e2233364-desenvolvedor-front-end)
