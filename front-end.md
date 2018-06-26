@@ -2,19 +2,21 @@
 
 Olá Desenvolvedor!!!
 
-Aqui estão os dados da nossa vaga de Front-end, mas caso ainda não conheça muito sobre nós, [clique aqui](https://github.com/ecostage/vagas).
+Aqui estão os dados da nossa vaga de frontend, se ainda não conhece muito sobre nós, [clique aqui](https://github.com/ecostage/vagas).
 
 ### Detalhes
 
 Se você gosta de novos desafios, de estar sempre em contato com o que há de melhor no mundo da tecnologia e busca aprender novos conceitos, metodologias e ferramentas, temos esse espaço para você aqui!
-Estamos sempre em busca de profissionais empenhados e que não tenham receio de inovar.
+Estamos sempre em busca de profissionais empenhados e que não tenham medo de inovar.
 
-Como desenvolvedor front-end você estará envolvido na programação de interfaces construindo os fluxos de navegação em aplicações.
+Como desenvolvedor frontend você estará envolvido na programação de interfaces construindo os fluxos de navegação em aplicações.
+
+Temos vagas disponíveis para júnior, pleno e sênior.
 
 ### Nossos Diferenciais
 - Horários flexíveis
 - Ambiente descontraído
-- Home office alguns dias da semana
+- Política de Home office
 
 ### Requisitos
 - Javascript (ReactJS, Redux, ES6)

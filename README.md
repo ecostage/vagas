@@ -7,15 +7,13 @@ Já que você chegou aqui vamos te deixar mais familiarizado com a nossa empresa
 ## Sobre nós
 Somos uma empresa especializada no desenvolvimento de plataformas web e aplicativos e oferecemos a centros de pesquisa, organizações não governamentais, instituições e empresas, soluções e tecnologias inovadoras.
 
-Procuramos sempre tomar nossas decisões junto de nossas equipes, desde interações nos projetos até no acompanhamento de novas tecnologias e tendências.
+Acreditamos e investimos na construção colaborativa das nossas soluções onde a nossa equipe tem sempre um papel de destaque participando ativamente do processo de desenvolvimento e das tomadas de decisão. Incentivamos a criatividade e a utilização de novas ferramentas e tecnologias para estarmos sempre a frente.
 
-Em nosso stack procuramos manter sempre o mais atualizado, utilizando de diversas ferramentas/tecnologias para facilitar nosso processo e garantir um ambiente de ponta para nossos desenvolvedores.
+A nossa paixão por código nos coloca em uma busca incessante por qualidade e por padrões de desenvolvimento para termos a certeza, sempre, que teremos o melhor produto para nossos clientes. Muito código, inovação, desafios, organização, padrões, TDDs, Pull Requests, Merges, Slack, Trello... Venha viver este mundo conosco.
 
-Entendemos que a qualidade de código e padrões de design são as premissas número um para garantirmos um bom processo de desenvolvimento e manutenção, então utilizamos de TDD, Pull Requests, e outros mecanismos para atigirmos isso.
+Estamos a 8 minutos da estação Brigadeiro do Metrô, fácil acesso e o melhor... horários flexíveis e política de home office.
 
-E estamos próximos a Av. Paulista (Ao lado da estação Bridadeiro)
-
-Agora que você sabe um pouco mais sobre nós, dê uma conferida nas vagas que temos aberto e venha fazer parte da nossa equipe.
+Agora que você sabe um pouco mais sobre nós, dê uma conferida nas vagas que temos em aberto e venha fazer parte da nossa equipe. Temos projetos esperando por você!
 
 
 #### Vagas
